@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif; 
+}
+
+h1 {
+    font-size: 5rem;
+    margin-top: 50px; 
+    font-family: "Courgette", cursive;
+    padding: 30px;
+    color: #009494; 
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+    padding: 20px;
+}
+
+.top {
+    background-color: #bedcfa;
+    position: relative;
+    padding-top: 85px;
+}
+
+.top-middle {
+    background-color: #98acf8;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom-middle {
+    background-color: #b088f9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom {
+    background-color: #da9ff9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cloudtop {
+    position: relative;
+    left: 20%
+}
+
+.cloudbottom{
+    position: absolute;
+    top: 55%;
+    left: 25%;
+}
+
+.pfp {
+    border-radius: 20%;
+    height: 200px;
+}
+
+.codinggif {
+    height: 200px;
+    border-radius: 20%
+}
+
+.adate {
+    font-size: 2.5rem;
+    color: #009494;
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 80%;
+    margin: 50px auto 50px auto;
+}
+
+.profile {
+    width: 80%;
+    margin: auto;
+}
+
+.pgraph {
+    line-height: 200%;
+}
+
+.contact-me {
+    width : 80%;
+    margin: auto;
+}

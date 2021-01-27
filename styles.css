@@ -1,0 +1,61 @@
+
+#top-page{
+text-align: center;
+}
+body{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#first{
+    background-color: #7c9473;
+    height: 500px;
+}
+/* height % doesn't really work for it takes in the attributes of the items within the div and stay
+constructed to their height, therefore you cant manage the height of the div container */
+
+
+#second{
+    text-align: center;
+    height: 500px;
+    background-color: #cfdac8;
+}
+
+
+#third{
+    height: 500px;
+    background-color: #e8eae6;
+}
+#gitpic{
+    
+    width: 128px;
+    height: 128px;
+    
+}
+#linkpic{
+    align-items: center;
+    margin-left: 10pxs;
+    width: 128px;
+    height: 128px;
+    
+}
+
+#title3{
+    text-align: center;
+}
+#h4hob{
+    margin-left: 10%;
+    text-align: left;
+    width: 45%;
+    float: left;
+}
+#hobbiesP{
+    margin-left: 10%;
+    text-align: left;
+    width: 20%;
+}
+#h4school{
+    margin-right: 10%;
+    text-align: right;
+    float: right;
+}
